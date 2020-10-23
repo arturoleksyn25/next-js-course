@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import MainLayout from "../components/MainLayout";
+import MainLayout from "../components/mainLayout";
 import {useEffect, useState} from "react";
 import {MyPost} from "../interfaces/post";
 import {NextPageContext} from "next";
